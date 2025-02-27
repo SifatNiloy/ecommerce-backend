@@ -1,0 +1,8 @@
+We will create:
+
+1. Interface/ Type for typescript for typescript type definition
+2. Model & mongoose schema
+3. Zod validation schema
+4. Routes
+5. Controllers
+6. Services
